@@ -21,3 +21,12 @@ console.log(z)
 // 5. object
 // 6. sysmbol
 
+/* String Datatype in js */
+// ------------------------
+const singlequote = 'Hello!'
+const doublequote = "Akash"
+const backtick = `Hello!, ${doublequote}`
+
+console.log(singlequote)
+console.log(doublequote)
+console.log(backtick)
