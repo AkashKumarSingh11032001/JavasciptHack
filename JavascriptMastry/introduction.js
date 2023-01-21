@@ -1,4 +1,6 @@
 /* variable in js */
+// -----------------
+
 // 1. var  keyword -> entier file scope
 var x = "Hello!"
 console.log(x)
@@ -8,3 +10,14 @@ console.log(y)
 // 3. const keyword -> value can't be changed
 const z = "Hey!"
 console.log(z)
+
+/* Datatype in js */
+// -----------------
+
+// 1. string 
+// 2. number
+// 3. NULL -> variable defined but value not declared
+// 4. undefiend -> neither value defined nor variable
+// 5. object
+// 6. sysmbol
+
